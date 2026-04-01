@@ -1,6 +1,3 @@
-Here’s a more **natural, student-style README.md** — mixed paragraphs + bullets, less “perfect AI tone”, and more like something you’d actually submit:
-
----
 
 # 📊 Volatility Forecasting of Wheat Futures
 
@@ -149,17 +146,3 @@ The hybrid approach benefits from:
 
 * Structure and interpretability (from GARCH models)
 * Flexibility and nonlinearity (from LSTMs)
-
-This makes it a strong candidate for real-world volatility forecasting problems.
-
----
-
-## Future Work
-
-If I had more time, I would explore:
-
-* Adding macroeconomic or weather data
-* Trying Transformer-based models
-* Applying the same framework to other commodities or equities
-
----
